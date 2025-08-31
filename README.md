@@ -1,2 +1,2 @@
 # Beginnings
-My first Repo & My first Mini-projects !!!
+My first Repo & My Mini-projects !!!
